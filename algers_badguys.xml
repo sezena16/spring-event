@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ForceOrg>
+  <UNIT>
+    <JCATS_ID>2</JCATS_ID>
+    <NAME>Unit Bad 1</NAME>
+    <UIC>JU2</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>3</JCATS_ID>
+    <NAME>FITTER_3</NAME>
+    <URN>JS54</URN>
+    <JCATS_SystemCharName>FITTER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>4</JCATS_ID>
+    <NAME>FLOGGER_4</NAME>
+    <URN>JS55</URN>
+    <JCATS_SystemCharName>FLOGGER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>5</JCATS_ID>
+    <NAME>BOMBER_5</NAME>
+    <URN>JS56</URN>
+    <JCATS_SystemCharName>BOMBER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>6</JCATS_ID>
+    <NAME>LARGE BOAT_6</NAME>
+    <URN>JS62</URN>
+    <JCATS_SystemCharName>LARGE BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>7</JCATS_ID>
+    <NAME>LARGE BOAT_7</NAME>
+    <URN>JS63</URN>
+    <JCATS_SystemCharName>LARGE BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>8</JCATS_ID>
+    <NAME>SUBMARINE_8</NAME>
+    <URN>JS64</URN>
+    <JCATS_SystemCharName>SUBMARINE</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>9</JCATS_ID>
+    <NAME>SUBMARINE_9</NAME>
+    <URN>JS65</URN>
+    <JCATS_SystemCharName>SUBMARINE</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>10</JCATS_ID>
+    <NAME>FISHING BOAT_10</NAME>
+    <URN>JS66</URN>
+    <JCATS_SystemCharName>FISHING BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>11</JCATS_ID>
+    <NAME>FISHING BOAT_11</NAME>
+    <URN>JS67</URN>
+    <JCATS_SystemCharName>FISHING BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>12</JCATS_ID>
+    <NAME>FISHING BOAT_12</NAME>
+    <URN>JS68</URN>
+    <JCATS_SystemCharName>FISHING BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>13</JCATS_ID>
+    <NAME>FISHING BOAT_13</NAME>
+    <URN>JS69</URN>
+    <JCATS_SystemCharName>FISHING BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>14</JCATS_ID>
+    <NAME>FISHING BOAT_14</NAME>
+    <URN>JS70</URN>
+    <JCATS_SystemCharName>FISHING BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>15</JCATS_ID>
+    <NAME>FISHING BOAT_15</NAME>
+    <URN>JS71</URN>
+    <JCATS_SystemCharName>FISHING BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>16</JCATS_ID>
+    <NAME>PATROL BOAT_16</NAME>
+    <URN>JS72</URN>
+    <JCATS_SystemCharName>PATROL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>17</JCATS_ID>
+    <NAME>PATROL BOAT_17</NAME>
+    <URN>JS73</URN>
+    <JCATS_SystemCharName>PATROL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>18</JCATS_ID>
+    <NAME>PATROL BOAT_18</NAME>
+    <URN>JS74</URN>
+    <JCATS_SystemCharName>PATROL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>19</JCATS_ID>
+    <NAME>PATROL BOAT_19</NAME>
+    <URN>JS75</URN>
+    <JCATS_SystemCharName>PATROL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>20</JCATS_ID>
+    <NAME>RTRUCK AMO_20</NAME>
+    <URN>JS103</URN>
+    <JCATS_SystemCharName>RTRUCK AMO</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_NeedsCrew>1</JCATS_NeedsCrew>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>21</JCATS_ID>
+    <NAME>RTRUCK POL_21</NAME>
+    <URN>JS104</URN>
+    <JCATS_SystemCharName>RTRUCK POL</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_NeedsCrew>1</JCATS_NeedsCrew>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>22</JCATS_ID>
+    <NAME>RDRIVER_22</NAME>
+    <URN>JS105</URN>
+    <JCATS_SystemCharName>RDRIVER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>23</JCATS_ID>
+    <NAME>RDRIVER_23</NAME>
+    <URN>JS106</URN>
+    <JCATS_SystemCharName>RDRIVER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>24</JCATS_ID>
+    <NAME>SF SOLDIER_24</NAME>
+    <URN>JS133</URN>
+    <JCATS_SystemCharName>SF SOLDIER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>25</JCATS_ID>
+    <NAME>SF SOLDIER_25</NAME>
+    <URN>JS134</URN>
+    <JCATS_SystemCharName>SF SOLDIER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>26</JCATS_ID>
+    <NAME>SF SOLDIER_26</NAME>
+    <URN>JS135</URN>
+    <JCATS_SystemCharName>SF SOLDIER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>27</JCATS_ID>
+    <NAME>SF SOLDIER_27</NAME>
+    <URN>JS136</URN>
+    <JCATS_SystemCharName>SF SOLDIER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>28</JCATS_ID>
+    <NAME>SF SOLDIER_28</NAME>
+    <URN>JS137</URN>
+    <JCATS_SystemCharName>SF SOLDIER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>29</JCATS_ID>
+    <NAME>CONTROL TOWER_29</NAME>
+    <URN>JS203</URN>
+    <JCATS_SystemCharName>CONTROL TOWER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>30</JCATS_ID>
+    <NAME>ADA RADAR_30</NAME>
+    <URN>JS204</URN>
+    <JCATS_SystemCharName>ADA RADAR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>31</JCATS_ID>
+    <NAME>ADA TEL_31</NAME>
+    <URN>JS205</URN>
+    <JCATS_SystemCharName>ADA TEL</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>32</JCATS_ID>
+    <NAME>ADA TEL_32</NAME>
+    <URN>JS206</URN>
+    <JCATS_SystemCharName>ADA TEL</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>3</JCATS_ID>
+    <NAME>TANK PLT RED_1</NAME>
+    <UIC>JU3</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>33</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AR</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>2</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>34</JCATS_ID>
+    <NAME>T-72_34</NAME>
+    <URN>JS3</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>3</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>35</JCATS_ID>
+    <NAME>T-72_35</NAME>
+    <URN>JS4</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>3</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>36</JCATS_ID>
+    <NAME>T-72_36</NAME>
+    <URN>JS5</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>3</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>37</JCATS_ID>
+    <NAME>T-72_37</NAME>
+    <URN>JS6</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>3</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>4</JCATS_ID>
+    <NAME>MECH PLT RED_21</NAME>
+    <UIC>JU4</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>38</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MECH PLT</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MECH PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>39</JCATS_ID>
+    <NAME>BMP-1_39</NAME>
+    <URN>JS7</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>4</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>40</JCATS_ID>
+    <NAME>BMP-1_40</NAME>
+    <URN>JS8</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>4</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>41</JCATS_ID>
+    <NAME>BMP-1_41</NAME>
+    <URN>JS9</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>4</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>42</JCATS_ID>
+    <NAME>BMP-1_42</NAME>
+    <URN>JS10</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>4</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>5</JCATS_ID>
+    <NAME>MECH PLT RED_26</NAME>
+    <UIC>JU5</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>43</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MECH PLT</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MECH PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>44</JCATS_ID>
+    <NAME>BMP-1_44</NAME>
+    <URN>JS11</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>5</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>45</JCATS_ID>
+    <NAME>BMP-1_45</NAME>
+    <URN>JS12</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>5</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>46</JCATS_ID>
+    <NAME>BMP-1_46</NAME>
+    <URN>JS13</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>5</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>47</JCATS_ID>
+    <NAME>BMP-1_47</NAME>
+    <URN>JS14</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>5</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>6</JCATS_ID>
+    <NAME>152MM BTRY_41</NAME>
+    <UIC>JU6</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>977</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>48</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>49</JCATS_ID>
+    <NAME>152MM SP_49</NAME>
+    <URN>JS18</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>6</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>50</JCATS_ID>
+    <NAME>152MM SP_50</NAME>
+    <URN>JS19</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>6</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>51</JCATS_ID>
+    <NAME>152MM SP_51</NAME>
+    <URN>JS20</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>6</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>52</JCATS_ID>
+    <NAME>152MM SP_52</NAME>
+    <URN>JS21</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>6</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>7</JCATS_ID>
+    <NAME>4.2IN MTR PLT_56</NAME>
+    <UIC>JU7</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>53</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MORTAR PLT</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MORTAR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>1000</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>54</JCATS_ID>
+    <NAME>4.2IN MTR_54</NAME>
+    <URN>JS22</URN>
+    <JCATS_SystemCharName>4.2IN MTR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>7</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>55</JCATS_ID>
+    <NAME>4.2IN MTR_55</NAME>
+    <URN>JS23</URN>
+    <JCATS_SystemCharName>4.2IN MTR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>7</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>56</JCATS_ID>
+    <NAME>4.2IN MTR_56</NAME>
+    <URN>JS24</URN>
+    <JCATS_SystemCharName>4.2IN MTR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>7</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>57</JCATS_ID>
+    <NAME>4.2IN MTR_57</NAME>
+    <URN>JS25</URN>
+    <JCATS_SystemCharName>4.2IN MTR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>7</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>13</JCATS_ID>
+    <NAME>152MM SP BN_301</NAME>
+    <UIC>JU13</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>OPFOR UNITS\UNIT SP FA BN</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>9</JCATS_ID>
+    <NAME>152MM BTRY_302</NAME>
+    <UIC>JU9</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU13</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>13</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>63</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>64</JCATS_ID>
+    <NAME>152MM SP_64</NAME>
+    <URN>JS30</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>65</JCATS_ID>
+    <NAME>152MM SP_65</NAME>
+    <URN>JS31</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>66</JCATS_ID>
+    <NAME>152MM SP_66</NAME>
+    <URN>JS32</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>67</JCATS_ID>
+    <NAME>152MM SP_67</NAME>
+    <URN>JS33</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>10</JCATS_ID>
+    <NAME>152MM BTRY_307</NAME>
+    <UIC>JU10</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU13</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>13</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>68</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>69</JCATS_ID>
+    <NAME>152MM SP_69</NAME>
+    <URN>JS34</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>10</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>70</JCATS_ID>
+    <NAME>152MM SP_70</NAME>
+    <URN>JS35</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>10</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>71</JCATS_ID>
+    <NAME>152MM SP_71</NAME>
+    <URN>JS36</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>10</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>72</JCATS_ID>
+    <NAME>152MM SP_72</NAME>
+    <URN>JS37</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>10</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>11</JCATS_ID>
+    <NAME>152MM BTRY_312</NAME>
+    <UIC>JU11</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU13</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>13</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>73</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>74</JCATS_ID>
+    <NAME>152MM SP_74</NAME>
+    <URN>JS38</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>11</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>75</JCATS_ID>
+    <NAME>152MM SP_75</NAME>
+    <URN>JS39</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>11</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>76</JCATS_ID>
+    <NAME>152MM SP_76</NAME>
+    <URN>JS40</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>11</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>77</JCATS_ID>
+    <NAME>152MM SP_77</NAME>
+    <URN>JS41</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>11</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>12</JCATS_ID>
+    <NAME>152MM BTRY_317</NAME>
+    <UIC>JU12</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU13</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>13</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>78</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>79</JCATS_ID>
+    <NAME>152MM SP_79</NAME>
+    <URN>JS42</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>12</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>80</JCATS_ID>
+    <NAME>152MM SP_80</NAME>
+    <URN>JS43</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>12</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81</JCATS_ID>
+    <NAME>152MM SP_81</NAME>
+    <URN>JS44</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>12</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>82</JCATS_ID>
+    <NAME>152MM SP_82</NAME>
+    <URN>JS45</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>12</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>15</JCATS_ID>
+    <NAME>GUN BOAT TM_90</NAME>
+    <UIC>JU15</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>85</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\GUN BOAT TM</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\GUN BOAT TM</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>200</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>3</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>86</JCATS_ID>
+    <NAME>SMALL BOAT_86</NAME>
+    <URN>JS58</URN>
+    <JCATS_SystemCharName>SMALL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>15</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>87</JCATS_ID>
+    <NAME>SMALL BOAT_87</NAME>
+    <URN>JS59</URN>
+    <JCATS_SystemCharName>SMALL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>15</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>16</JCATS_ID>
+    <NAME>GUN BOAT TM_93</NAME>
+    <UIC>JU16</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>88</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\GUN BOAT TM</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\GUN BOAT TM</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>200</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>3</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>89</JCATS_ID>
+    <NAME>SMALL BOAT_89</NAME>
+    <URN>JS60</URN>
+    <JCATS_SystemCharName>SMALL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>16</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>90</JCATS_ID>
+    <NAME>SMALL BOAT_90</NAME>
+    <URN>JS61</URN>
+    <JCATS_SystemCharName>SMALL BOAT</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>16</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>17</JCATS_ID>
+    <NAME>RIFLE SQUAD RED_96</NAME>
+    <UIC>JU17</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>91</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\IN</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\IN TM</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>50</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>10</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>500</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>92</JCATS_ID>
+    <NAME>R RIFLEMAN_92</NAME>
+    <URN>JS78</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>93</JCATS_ID>
+    <NAME>R RIFLEMAN_93</NAME>
+    <URN>JS79</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>94</JCATS_ID>
+    <NAME>SA-14_94</NAME>
+    <URN>JS80</URN>
+    <JCATS_SystemCharName>SA-14</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>95</JCATS_ID>
+    <NAME>SNIPER_95</NAME>
+    <URN>JS81</URN>
+    <JCATS_SystemCharName>SNIPER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>96</JCATS_ID>
+    <NAME>AT-4_96</NAME>
+    <URN>JS82</URN>
+    <JCATS_SystemCharName>AT-4</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>97</JCATS_ID>
+    <NAME>R RIFLEMAN_97</NAME>
+    <URN>JS83</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>98</JCATS_ID>
+    <NAME>R RIFLEMAN_98</NAME>
+    <URN>JS84</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>17</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>19</JCATS_ID>
+    <NAME>RIFLE SQUAD RED_112</NAME>
+    <UIC>JU19</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>100</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\IN</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\IN TM</JCATS_AggSymbol>
+    <JCATS_AggFormation>2</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>50</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>10</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>500</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>101</JCATS_ID>
+    <NAME>R RIFLEMAN_101</NAME>
+    <URN>JS85</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>102</JCATS_ID>
+    <NAME>R RIFLEMAN_102</NAME>
+    <URN>JS86</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>103</JCATS_ID>
+    <NAME>SA-14_103</NAME>
+    <URN>JS87</URN>
+    <JCATS_SystemCharName>SA-14</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>104</JCATS_ID>
+    <NAME>SNIPER_104</NAME>
+    <URN>JS88</URN>
+    <JCATS_SystemCharName>SNIPER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>105</JCATS_ID>
+    <NAME>AT-4_105</NAME>
+    <URN>JS89</URN>
+    <JCATS_SystemCharName>AT-4</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>106</JCATS_ID>
+    <NAME>R RIFLEMAN_106</NAME>
+    <URN>JS90</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>107</JCATS_ID>
+    <NAME>R RIFLEMAN_107</NAME>
+    <URN>JS91</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>19</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>20</JCATS_ID>
+    <NAME>RIFLE SQUAD RED_120</NAME>
+    <UIC>JU20</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>108</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\IN</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\IN TM</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>50</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>10</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>500</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>109</JCATS_ID>
+    <NAME>R RIFLEMAN_109</NAME>
+    <URN>JS92</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>110</JCATS_ID>
+    <NAME>R RIFLEMAN_110</NAME>
+    <URN>JS93</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>111</JCATS_ID>
+    <NAME>SA-14_111</NAME>
+    <URN>JS94</URN>
+    <JCATS_SystemCharName>SA-14</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>112</JCATS_ID>
+    <NAME>SNIPER_112</NAME>
+    <URN>JS95</URN>
+    <JCATS_SystemCharName>SNIPER</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>113</JCATS_ID>
+    <NAME>AT-4_113</NAME>
+    <URN>JS96</URN>
+    <JCATS_SystemCharName>AT-4</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>114</JCATS_ID>
+    <NAME>R RIFLEMAN_114</NAME>
+    <URN>JS97</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>115</JCATS_ID>
+    <NAME>R RIFLEMAN_115</NAME>
+    <URN>JS98</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>20</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>21</JCATS_ID>
+    <NAME>152MM BTRY_537</NAME>
+    <UIC>JU21</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>977</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>116</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>117</JCATS_ID>
+    <NAME>152MM SP_117</NAME>
+    <URN>JS107</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>21</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>118</JCATS_ID>
+    <NAME>152MM SP_118</NAME>
+    <URN>JS108</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>21</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>119</JCATS_ID>
+    <NAME>152MM SP_119</NAME>
+    <URN>JS109</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>21</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>120</JCATS_ID>
+    <NAME>152MM SP_120</NAME>
+    <URN>JS110</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>21</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>26</JCATS_ID>
+    <NAME>152MM SP BN_542</NAME>
+    <UIC>JU26</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>OPFOR UNITS\UNIT SP FA BN</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>22</JCATS_ID>
+    <NAME>152MM BTRY_543</NAME>
+    <UIC>JU22</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU26</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>26</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>121</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>122</JCATS_ID>
+    <NAME>152MM SP_122</NAME>
+    <URN>JS111</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>22</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>123</JCATS_ID>
+    <NAME>152MM SP_123</NAME>
+    <URN>JS112</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>22</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>124</JCATS_ID>
+    <NAME>152MM SP_124</NAME>
+    <URN>JS113</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>22</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>125</JCATS_ID>
+    <NAME>152MM SP_125</NAME>
+    <URN>JS114</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>22</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>23</JCATS_ID>
+    <NAME>152MM BTRY_548</NAME>
+    <UIC>JU23</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU26</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>26</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>126</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>127</JCATS_ID>
+    <NAME>152MM SP_127</NAME>
+    <URN>JS115</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>23</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>128</JCATS_ID>
+    <NAME>152MM SP_128</NAME>
+    <URN>JS116</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>23</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>129</JCATS_ID>
+    <NAME>152MM SP_129</NAME>
+    <URN>JS117</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>23</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>130</JCATS_ID>
+    <NAME>152MM SP_130</NAME>
+    <URN>JS118</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>23</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>24</JCATS_ID>
+    <NAME>152MM BTRY_553</NAME>
+    <UIC>JU24</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU26</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>26</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>131</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>132</JCATS_ID>
+    <NAME>152MM SP_132</NAME>
+    <URN>JS119</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>24</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>133</JCATS_ID>
+    <NAME>152MM SP_133</NAME>
+    <URN>JS120</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>24</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>134</JCATS_ID>
+    <NAME>152MM SP_134</NAME>
+    <URN>JS121</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>24</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>135</JCATS_ID>
+    <NAME>152MM SP_135</NAME>
+    <URN>JS122</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>24</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>25</JCATS_ID>
+    <NAME>152MM BTRY_558</NAME>
+    <UIC>JU25</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU26</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>26</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>136</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\SP FA BTRY</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>137</JCATS_ID>
+    <NAME>152MM SP_137</NAME>
+    <URN>JS123</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>25</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>138</JCATS_ID>
+    <NAME>152MM SP_138</NAME>
+    <URN>JS124</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>25</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>139</JCATS_ID>
+    <NAME>152MM SP_139</NAME>
+    <URN>JS125</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>25</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>140</JCATS_ID>
+    <NAME>152MM SP_140</NAME>
+    <URN>JS126</URN>
+    <JCATS_SystemCharName>152MM SP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>25</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>43</JCATS_ID>
+    <NAME>TANK BN TF RED_606</NAME>
+    <UIC>JU43</UIC>
+    <SERVICE>ARM</SERVICE>
+    <ECHELON>BN</ECHELON>
+    <OTH-GOLD_SYMBOL>130</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>ARMOR</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU2</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>2</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>1</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>OPFOR UNITS\UNIT AR BN</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>30</JCATS_ID>
+    <NAME>TANK CO RED_607</NAME>
+    <UIC>JU30</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU43</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>43</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>157</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AR</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR CO</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>250</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>27</JCATS_ID>
+    <NAME>TANK PLT RED_608</NAME>
+    <UIC>JU27</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU30</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>30</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>142</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>143</JCATS_ID>
+    <NAME>T-72_143</NAME>
+    <URN>JS138</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>27</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>144</JCATS_ID>
+    <NAME>T-72_144</NAME>
+    <URN>JS139</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>27</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>145</JCATS_ID>
+    <NAME>T-72_145</NAME>
+    <URN>JS140</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>27</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>146</JCATS_ID>
+    <NAME>T-72_146</NAME>
+    <URN>JS141</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>27</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>28</JCATS_ID>
+    <NAME>TANK PLT RED_613</NAME>
+    <UIC>JU28</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU30</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>30</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>147</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>148</JCATS_ID>
+    <NAME>T-72_148</NAME>
+    <URN>JS142</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>28</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>149</JCATS_ID>
+    <NAME>T-72_149</NAME>
+    <URN>JS143</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>28</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>150</JCATS_ID>
+    <NAME>T-72_150</NAME>
+    <URN>JS144</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>28</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>151</JCATS_ID>
+    <NAME>T-72_151</NAME>
+    <URN>JS145</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>28</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>29</JCATS_ID>
+    <NAME>TANK PLT RED_618</NAME>
+    <UIC>JU29</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU30</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>30</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>152</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>153</JCATS_ID>
+    <NAME>T-72_153</NAME>
+    <URN>JS146</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>29</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>154</JCATS_ID>
+    <NAME>T-72_154</NAME>
+    <URN>JS147</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>29</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>155</JCATS_ID>
+    <NAME>T-72_155</NAME>
+    <URN>JS148</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>29</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>156</JCATS_ID>
+    <NAME>T-72_156</NAME>
+    <URN>JS149</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>29</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>34</JCATS_ID>
+    <NAME>TANK CO RED_623</NAME>
+    <UIC>JU34</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU43</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>43</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>173</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AR</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR CO</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>250</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>31</JCATS_ID>
+    <NAME>TANK PLT RED_624</NAME>
+    <UIC>JU31</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU34</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>34</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>158</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>159</JCATS_ID>
+    <NAME>T-72_159</NAME>
+    <URN>JS150</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>31</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>160</JCATS_ID>
+    <NAME>T-72_160</NAME>
+    <URN>JS151</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>31</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>161</JCATS_ID>
+    <NAME>T-72_161</NAME>
+    <URN>JS152</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>31</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>162</JCATS_ID>
+    <NAME>T-72_162</NAME>
+    <URN>JS153</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>31</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>32</JCATS_ID>
+    <NAME>TANK PLT RED_629</NAME>
+    <UIC>JU32</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU34</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>34</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>163</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>164</JCATS_ID>
+    <NAME>T-72_164</NAME>
+    <URN>JS154</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>32</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>165</JCATS_ID>
+    <NAME>T-72_165</NAME>
+    <URN>JS155</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>32</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>166</JCATS_ID>
+    <NAME>T-72_166</NAME>
+    <URN>JS156</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>32</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>167</JCATS_ID>
+    <NAME>T-72_167</NAME>
+    <URN>JS157</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>32</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>33</JCATS_ID>
+    <NAME>TANK PLT RED_634</NAME>
+    <UIC>JU33</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU34</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>34</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>168</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>169</JCATS_ID>
+    <NAME>T-72_169</NAME>
+    <URN>JS158</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>33</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>170</JCATS_ID>
+    <NAME>T-72_170</NAME>
+    <URN>JS159</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>33</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>171</JCATS_ID>
+    <NAME>T-72_171</NAME>
+    <URN>JS160</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>33</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>172</JCATS_ID>
+    <NAME>T-72_172</NAME>
+    <URN>JS161</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>33</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>38</JCATS_ID>
+    <NAME>TANK CO RED_639</NAME>
+    <UIC>JU38</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU43</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>43</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>189</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AR</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR CO</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>250</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>35</JCATS_ID>
+    <NAME>TANK PLT RED_640</NAME>
+    <UIC>JU35</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU38</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>38</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>174</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>175</JCATS_ID>
+    <NAME>T-72_175</NAME>
+    <URN>JS162</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>35</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>176</JCATS_ID>
+    <NAME>T-72_176</NAME>
+    <URN>JS163</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>35</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>177</JCATS_ID>
+    <NAME>T-72_177</NAME>
+    <URN>JS164</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>35</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>178</JCATS_ID>
+    <NAME>T-72_178</NAME>
+    <URN>JS165</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>35</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>36</JCATS_ID>
+    <NAME>TANK PLT RED_645</NAME>
+    <UIC>JU36</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU38</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>38</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>179</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>180</JCATS_ID>
+    <NAME>T-72_180</NAME>
+    <URN>JS166</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>36</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>181</JCATS_ID>
+    <NAME>T-72_181</NAME>
+    <URN>JS167</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>36</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>182</JCATS_ID>
+    <NAME>T-72_182</NAME>
+    <URN>JS168</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>36</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>183</JCATS_ID>
+    <NAME>T-72_183</NAME>
+    <URN>JS169</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>36</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>37</JCATS_ID>
+    <NAME>TANK PLT RED_650</NAME>
+    <UIC>JU37</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU38</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>38</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>184</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\AGGREGATE</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\AR PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>185</JCATS_ID>
+    <NAME>T-72_185</NAME>
+    <URN>JS170</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>37</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>186</JCATS_ID>
+    <NAME>T-72_186</NAME>
+    <URN>JS171</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>37</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>187</JCATS_ID>
+    <NAME>T-72_187</NAME>
+    <URN>JS172</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>37</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>188</JCATS_ID>
+    <NAME>T-72_188</NAME>
+    <URN>JS173</URN>
+    <JCATS_SystemCharName>T-72</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>37</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>42</JCATS_ID>
+    <NAME>MECH CO RED_655</NAME>
+    <UIC>JU42</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU43</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>43</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>205</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MECH CO</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MECH CO</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>300</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>250</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <UNIT>
+    <JCATS_ID>39</JCATS_ID>
+    <NAME>MECH PLT RED_656</NAME>
+    <UIC>JU39</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU42</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>42</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>190</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MECH PLT</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MECH PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>191</JCATS_ID>
+    <NAME>BMP-1_191</NAME>
+    <URN>JS174</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>39</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>192</JCATS_ID>
+    <NAME>BMP-1_192</NAME>
+    <URN>JS175</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>39</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>193</JCATS_ID>
+    <NAME>BMP-1_193</NAME>
+    <URN>JS176</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>39</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>194</JCATS_ID>
+    <NAME>BMP-1_194</NAME>
+    <URN>JS177</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>39</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>40</JCATS_ID>
+    <NAME>MECH PLT RED_661</NAME>
+    <UIC>JU40</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU42</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>42</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>195</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MECH PLT</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MECH PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>196</JCATS_ID>
+    <NAME>BMP-1_196</NAME>
+    <URN>JS178</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>40</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>197</JCATS_ID>
+    <NAME>BMP-1_197</NAME>
+    <URN>JS179</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>40</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>198</JCATS_ID>
+    <NAME>BMP-1_198</NAME>
+    <URN>JS180</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>40</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>199</JCATS_ID>
+    <NAME>BMP-1_199</NAME>
+    <URN>JS181</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>40</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>41</JCATS_ID>
+    <NAME>MECH PLT RED_666</NAME>
+    <UIC>JU41</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <MTOE_PARENT_UIC>JU42</MTOE_PARENT_UIC>
+    <JCATS_ToeSuperID>42</JCATS_ToeSuperID>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>200</JCATS_AggID>
+    <JCATS_AggClassSymbol>OPFOR UNITS\MECH PLT</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>OPFOR UNITS\MECH PLT</JCATS_AggSymbol>
+    <JCATS_AggFormation>1</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>50</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>1000</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment>Force Bad 1</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>201</JCATS_ID>
+    <NAME>BMP-1_201</NAME>
+    <URN>JS182</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>41</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>202</JCATS_ID>
+    <NAME>BMP-1_202</NAME>
+    <URN>JS183</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>41</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>203</JCATS_ID>
+    <NAME>BMP-1_203</NAME>
+    <URN>JS184</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>41</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>204</JCATS_ID>
+    <NAME>BMP-1_204</NAME>
+    <URN>JS185</URN>
+    <JCATS_SystemCharName>BMP-1</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>41</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>44</JCATS_ID>
+    <NAME>Unit Bad 2</NAME>
+    <UIC>JU44</UIC>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_UnitSymbol>1</JCATS_UnitSymbol>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment>Force Bad 2</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>208</JCATS_ID>
+    <NAME>R RIFLEMAN_208</NAME>
+    <URN>JS208</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>209</JCATS_ID>
+    <NAME>R RIFLEMAN_209</NAME>
+    <URN>JS209</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>210</JCATS_ID>
+    <NAME>R RIFLEMAN_210</NAME>
+    <URN>JS210</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>211</JCATS_ID>
+    <NAME>R RIFLEMAN_211</NAME>
+    <URN>JS211</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>212</JCATS_ID>
+    <NAME>R RIFLEMAN_212</NAME>
+    <URN>JS212</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>213</JCATS_ID>
+    <NAME>R RIFLEMAN_213</NAME>
+    <URN>JS213</URN>
+    <JCATS_SystemCharName>R RIFLEMAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>214</JCATS_ID>
+    <NAME>CIVILIAN_214</NAME>
+    <URN>JS214</URN>
+    <JCATS_SystemCharName>CIVILIAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>215</JCATS_ID>
+    <NAME>CIVILIAN_215</NAME>
+    <URN>JS215</URN>
+    <JCATS_SystemCharName>CIVILIAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>216</JCATS_ID>
+    <NAME>CIVILIAN_216</NAME>
+    <URN>JS216</URN>
+    <JCATS_SystemCharName>CIVILIAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>217</JCATS_ID>
+    <NAME>CIVILIAN_217</NAME>
+    <URN>JS217</URN>
+    <JCATS_SystemCharName>CIVILIAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>218</JCATS_ID>
+    <NAME>CIVILIAN_218</NAME>
+    <URN>JS218</URN>
+    <JCATS_SystemCharName>CIVILIAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>219</JCATS_ID>
+    <NAME>CIVILIAN_219</NAME>
+    <URN>JS219</URN>
+    <JCATS_SystemCharName>CIVILIAN</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>44</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+</ForceOrg>
