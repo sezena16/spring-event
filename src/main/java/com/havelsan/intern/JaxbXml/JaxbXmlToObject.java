@@ -2,8 +2,8 @@ package com.havelsan.intern.JaxbXml;
 
 import com.havelsan.intern.entity.*;
 import com.havelsan.intern.file_parse.TextParser;
-import com.havelsan.intern.repository.SystemRepository;
-import com.havelsan.intern.repository.UnitRepository;
+import com.havelsan.intern.serviceImplementations.SystemServiceImpl;
+import com.havelsan.intern.serviceImplementations.UnitServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
@@ -21,15 +21,15 @@ public class JaxbXmlToObject {
 
     private final TextParser textParser;
 
-    private final UnitRepository unitRepository;
+    private final UnitServiceImpl unitServiceImpl;
 
-    private final SystemRepository systemRepository;
+    private final SystemServiceImpl systemServiceImpl;
 
     public void xmlToObject(){
 
-        String filename1="C:/Users/Computer/Desktop/intern/algers_goodguys.xml";
+        String filename1="C:/Users/Computer/Desktop/spring-event/algers_goodguys.xml";
 
-        String filename2="C:/Users/Computer/Desktop/intern/algers_badguys.xml";
+        String filename2="C:/Users/Computer/Desktop/spring-event/algers_badguys.xml";
 
         XmlToObject(filename1);
 
@@ -72,9 +72,9 @@ public class JaxbXmlToObject {
                     forces.getUnit().get(i).setWhich_side("BadGuys");
             }
 
-            unitRepository.saveAll(forces.getUnit());
+            unitServiceImpl.saveAll(forces.getUnit());
 
-            systemRepository.saveAll(forces.getSystem());
+            systemServiceImpl.saveAll(forces.getSystem());
         }
         catch (JAXBException e)
         {

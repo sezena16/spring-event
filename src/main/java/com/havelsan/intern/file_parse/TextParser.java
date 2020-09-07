@@ -1,7 +1,10 @@
 package com.havelsan.intern.file_parse;
 
 import com.havelsan.intern.entity.*;
-import com.havelsan.intern.repository.*;
+import com.havelsan.intern.serviceImplementations.EventServiceImpl;
+import com.havelsan.intern.serviceImplementations.OrgServiceImpl;
+import com.havelsan.intern.serviceImplementations.SpotServiceImpl;
+import com.havelsan.intern.serviceImplementations.SystemServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
@@ -17,21 +20,21 @@ import java.util.Optional;
 @RequiredArgsConstructor
 public class TextParser {
 
-    private final EventRepository eventRepository;
+    private final EventServiceImpl eventServiceImpl;
 
-    private final OrgRepository orgRepository;
+    private final OrgServiceImpl orgServiceImpl;
 
-    private final SpotRepository spotRepository;
+    private final SpotServiceImpl spotServiceImpl;
 
-    private final SystemRepository systemRepository;
+    private final SystemServiceImpl systemServiceImpl;
 
     public void parser(){
 
-        String filename1="C:/Users/Computer/Desktop/intern/datevent0000.dat.txt";
+        String filename1="C:/Users/Computer/Desktop/spring-event/datevent0000.dat.txt";
 
-        String filename2="C:/Users/Computer/Desktop/intern/datorg0000.dat.txt";
+        String filename2="C:/Users/Computer/Desktop/spring-event/datorg0000.dat.txt";
 
-        String filename3="C:/Users/Computer/Desktop/intern/datspot0000.dat.txt";
+        String filename3="C:/Users/Computer/Desktop/spring-event/datspot0000.dat.txt";
 
         eventParser(filename1);
 
@@ -165,7 +168,7 @@ public class TextParser {
                 line = reader.readLine();
             }
             for (Event event : eventList) {
-                Optional<SYSTEM> systemOptional = systemRepository.findBySystemIDAndSystemName(
+                Optional<SYSTEM> systemOptional = systemServiceImpl.findBySystemIDAndSystemName(
                         event.getS_unit_id(),
                         event.getS_unit_name());
                 if (systemOptional.isPresent()) {
@@ -176,11 +179,11 @@ public class TextParser {
                 }
             }
             for (SYSTEM system : systemList) {
-                List<Event> eventList1 = new ArrayList<Event>(eventRepository.findAllBySystem(system));
+                List<Event> eventList1 = new ArrayList<Event>(eventServiceImpl.findAllBySystem(system));
                 system.setEvents(eventList1);
             }
             reader.close();
-            eventRepository.saveAll(eventList);
+            eventServiceImpl.saveAll(eventList);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -217,7 +220,7 @@ public class TextParser {
                 line = reader.readLine();
             }
             reader.close();
-            orgRepository.saveAll(orgList);
+            orgServiceImpl.saveAll(orgList);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -290,7 +293,7 @@ public class TextParser {
                 line = reader.readLine();
             }
             for (Spot spot : spotList) {
-                Optional<SYSTEM> systemOptional = systemRepository.findBySystemIDAndSystemName(
+                Optional<SYSTEM> systemOptional = systemServiceImpl.findBySystemIDAndSystemName(
                         spot.getUnit_id(),
                         spot.getUnit_name());
                 if (systemOptional.isPresent()) {
@@ -301,11 +304,11 @@ public class TextParser {
                 }
             }
             for (SYSTEM system : systemList) {
-                List<Spot> spots = new ArrayList<Spot>(spotRepository.findAllBySpotSystem(system));
+                List<Spot> spots = new ArrayList<Spot>(spotServiceImpl.findAllBySpotSystem(system));
                 system.setSpots(spots);
             }
             reader.close();
-            spotRepository.saveAll(spotList);
+            spotServiceImpl.saveAll(spotList);
         } catch (IOException e) {
             e.printStackTrace();
         }
